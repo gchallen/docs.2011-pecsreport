@@ -1,6 +1,6 @@
 START = xxxnote
 END = missing
-CLASS = $(PWD)/document.cls
+CLASS = $(PYTEX)/cls/document.cls
 
 all: document content.txt
 
